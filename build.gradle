@@ -96,7 +96,7 @@ dependencies {
     compile group: 'org.assertj', name: 'assertj-core', version: '3.8.0'
 
     // https://mvnrepository.com/artifact/org.assertj/assertj-assertions-generator
-    compile group: 'org.assertj', name: 'assertj-assertions-generator', version: '2.0.0'
+    compile group: 'org.assertj', name: 'assertj-assertions-generator', version: '2.1.0'
 
     // https://mvnrepository.com/artifact/com.google.guava/guava
     compile group: 'com.google.guava', name: 'guava', version: '20.0'
